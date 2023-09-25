@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     SetConsoleOutputCP(1251);
     SetConsoleCP(1251);
-    // а
+    
     double a;
     cout << "¬вед≥ть значенн€ кута a = ";
     cin >> a;
